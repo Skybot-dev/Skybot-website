@@ -1,4 +1,4 @@
-# skybot-website
+# tss-website-nuxt
 
 ## Build Setup
 
